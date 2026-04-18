@@ -9,8 +9,7 @@ const errorHandler = require('./middleware/errorHandler');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
-const MONGO_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/healthcare_claims';
-
+const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/healthcare_claims';
 // ─── Middleware ────────────────────────────────────────────────────────────────
 app.use(
   cors({

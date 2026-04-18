@@ -1,10 +1,10 @@
-require('dotenv').config();
+require("dotenv").config();
 const mongoose = require('mongoose');
+const bcrypt = require('bcryptjs');
 const User = require('../models/User');
 const Claim = require('../models/Claim');
 
-const MONGO_URI =
-  process.env.MONGODB_URI || 'mongodb://localhost:27017/healthcare_claims';
+const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/healthcare_claims';
 
 const users = [
   {
