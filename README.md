@@ -7,19 +7,19 @@ A production-style **MERN stack** web application that simulates real-world medi
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](./frontend/healthcare-claims-dash/public//Projects_ScreenShots/login_page.png)
+![Login Page](./frontend/public//Projects_ScreenShots/login_page.png)
 
 ### Admin Dashboard
-![Admin Dashboard](./frontend/healthcare-claims-dash/public//Projects_ScreenShots/admin_dashboard.png)
+![Admin Dashboard](./frontend/public//Projects_ScreenShots/admin_dashboard.png)
 
 ### Claims Management
-![Claims Table](./frontend/healthcare-claims-dash/public//Projects_ScreenShots/admin_claims.png)
+![Claims Table](./frontend/public//Projects_ScreenShots/admin_claims.png)
 
 ### Insights & Analytics
-![Insights](./frontend/healthcare-claims-dash/public//Projects_ScreenShots/admin_insights.png)
+![Insights](./frontend/public//Projects_ScreenShots/admin_insights.png)
 
 ### Staff View (Role-Based Access)
-![Staff Dashboard](./frontend/healthcare-claims-dash/public//Projects_ScreenShots/staff_dashboard.png)
+![Staff Dashboard](./frontend/public//Projects_ScreenShots/staff_dashboard.png)
 
 ---
 
